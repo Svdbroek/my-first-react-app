@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Heavy Metal Universe!
+          welcome to codaisseur!
         </a>
       </header>
     </div>
