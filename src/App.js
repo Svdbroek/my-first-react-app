@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Heavy Metal Universe!
         </a>
       </header>
     </div>
